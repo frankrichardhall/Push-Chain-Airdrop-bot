@@ -7,6 +7,20 @@ A lightweight automation suite for the PushChain ecosystem, focused on testnet e
 - Private keys for the wallets you intend to use (stored in `privateKeys.json`).
 - [Push Chain Faucet](https://faucet.push.org/)
 
+## Menu
+```
+--------------------------------------
+       Push Chain Airdrop bot
+--------------------------------------
+
+--- Choose Your Menu ---
+1. Simulate Transactions
+2. Launch Token
+3. Register Domain
+0. Exit
+Select option: 
+```
+
 ## Installation
 
 1. **Clone the Repository**:
