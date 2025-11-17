@@ -10,7 +10,7 @@ A lightweight automation suite for the PushChain ecosystem, focused on testnet e
 ## Menu
 ```
 --------------------------------------
-       Push Chain Airdrop bot
+      Push Chain Airdrop bot v2
 --------------------------------------
 
 --- Choose Your Menu ---
