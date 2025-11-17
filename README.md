@@ -1,5 +1,5 @@
 # Push Chain Airdrop bot
-A lightweight automation suite for the PushChain ecosystem, focused on testnet experimentation and airdrop preparation. It streamlines wallet management, transaction simulation, token launches, and domain registrations on the Push EVM network, making on-chain activity faster, repeatable, and efficient for power users.
+A lightweight automation suite for the Push Chain ecosystem, focused on testnet experimentation and airdrop preparation. It streamlines wallet management, transaction simulation, token launches, and domain registrations on the Push EVM network, making on-chain activity faster, repeatable, and efficient for power users.
 
 ## Requirements
 
