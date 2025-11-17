@@ -9,7 +9,7 @@ const logger = {
   banner: () => {
     console.log(`${colors.cyan}${colors.bold}`);
     console.log(`--------------------------------------`);
-    console.log(`       Push Chain Airdrop bot`);
+    console.log(`      Push Chain Airdrop bot v2`);
     console.log(`--------------------------------------${colors.reset}`);
   }
 };

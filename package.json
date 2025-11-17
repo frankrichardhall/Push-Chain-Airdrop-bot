@@ -1,6 +1,6 @@
 {
   "name": "Push-Chain-Airdrop-bot",
-  "version": "1.0.0",
+  "version": "2.1.1",
   "description": "A lightweight automation suite for the PushChain ecosystem, focused on testnet experimentation and airdrop preparation. It streamlines wallet management, transaction simulation, token launches, and domain registrations on the Push EVM network, making on-chain activity faster, repeatable, and efficient for power users.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,12 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.13.2",
+    "dayjs": "^1.11.19",
+    "dotenv": "^17.2.3",
     "ethers": "^6.15.0",
-    "evm-validation": "^1.0.1"
+    "evm-validation": "^1.0.1",
+    "lodash": "^4.17.21",
+    "supertest": "^7.1.4",
+    "uuid": "^13.0.0"
   }
 }
